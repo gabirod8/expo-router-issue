@@ -15,7 +15,7 @@ export default function StackLayout() {
           })}
         />
         <Stack.Screen
-          name="detail"
+          name="details"
           options={() => ({
             title: 'Details',
           })}
